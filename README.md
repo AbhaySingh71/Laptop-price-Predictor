@@ -44,7 +44,7 @@
 
 <h2>🌐 Deployed App</h2>
 <ul>
-  <li><strong>Live Demo</strong>: <a href="https://laptop-price-prediction-abhaysingh.streamlit.app/"></a></li>
+  <li><strong>Live Demo</strong>: <a href="https://laptop-price-prediction-abhaysingh.streamlit.app/">https://laptop-price-prediction-abhaysingh.streamlit.app/</a></li>
   <li><strong>DockerHub</strong>: <a href="https://hub.docker.com/repository/docker/abhaysingh71/lappy/general">https://hub.docker.com/r/abhaysingh71/laptop-price-predictor</a></li>
 </ul>
 
